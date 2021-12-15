@@ -1,3 +1,11 @@
 .hidden {
   display: none;
 }
+
+#container {
+	max-width: 1400px;
+}
+
+body {
+	background: #fff;
+}
